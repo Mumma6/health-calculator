@@ -1,3 +1,5 @@
+A simple app to calculate your Body mass index, Basal metabolic rate and Total daily energy expenditure. Created with react and bootstrap, connected to firebase database. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
