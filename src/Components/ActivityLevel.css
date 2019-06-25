@@ -1,0 +1,18 @@
+.activity {
+  background-color: #ff6666;
+  width: 350px;
+  margin: 15px;
+  text-align: center;
+  color: #fff;
+
+  padding: 10px;
+
+  box-shadow: 7px 10px 12px -5px rgba(0, 0, 0, 0.5);
+  border-radius: 4px;
+}
+
+.quantity::-webkit-inner-spin-button, 
+.quantity::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
